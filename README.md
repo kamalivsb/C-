@@ -1,5 +1,4 @@
-# C-
-POSITIVE
+ C
 #include<stdio.h>
 int num;
 printf("enter a number:");
